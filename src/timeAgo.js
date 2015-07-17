@@ -186,6 +186,24 @@ angular.module('yaru22.angular-timeago', [
         year: 'een jaar',
         years: '%d jaar',
         numbers: []
+      },
+      'sv_SE': {
+        prefixAgo: null,
+        prefixFromNow: null,
+        suffixAgo: null,
+        suffixFromNow: 'from now',
+        seconds: 'mindre än en minut',
+        minute: 'ungefär en minut',
+        minutes: '%d minuter',
+        hour: 'en timme',
+        hours: '%d timmar',
+        day: 'en dag',
+        days: '%d dagar',
+        month: 'en månad',
+        months: '%d månader',
+        year: 'ett år',
+        years: '%d år',
+        numbers: []
       }
     }
   };
